@@ -1,0 +1,7 @@
+[package]
+name = "hello_piston"
+version = "0.1.0"
+authors = ["Felipe Henrique <felipehfsouza@gmail.com>"]
+
+[dependencies]
+piston_window = "0.70.0"
