@@ -16,6 +16,7 @@ fn main() {
     let say_hello = || {
         println!("Hello world");
     };
+    
     let double = |x| 2 * x;
     apply(say_hello);
     println!("3 doubled: {}", apply_to_28(double));

@@ -1,3 +1,8 @@
+// There are 2 type of string the static and 
+// the type string. So, 
+// The type String under the hood,
+// represents vec<u8>
+
 fn dump(s: &str) {
     println!("str {}", s);
 }

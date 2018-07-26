@@ -1,3 +1,5 @@
+// modifies the value 
+// using the mutable borrowing
 fn modifies(x: &mut f64) {
     *x = 1.0;
 }

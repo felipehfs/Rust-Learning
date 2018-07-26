@@ -3,6 +3,8 @@ fn main() {
     let floats = [1.1, 3.1, 3.1];
     let strings = ["hello", "world"];
     let ints_ints = [[1, 2], [10, 20]];
+
+    
     println!("ints {:?}", ints);
     println!("floats {:?}", floats);
     println!("strings {:?}", strings);

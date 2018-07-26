@@ -2,6 +2,7 @@ use std::env;
 use std::fs::File;
 use std::io::Read;
 
+// The program read a file by args and show the lenght in bytes
 fn main() {
     let first = env::args().nth(1).expect("please supply a filename");
     let mut file = File::open(&first).expect("can't open the file");
