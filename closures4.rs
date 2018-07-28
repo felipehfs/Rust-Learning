@@ -16,7 +16,6 @@ fn main() {
     let x = |i| i + 10;
     let a = A{
         f: x,
-    }
+    };
 
-    println!("{:?}", a);
 }
