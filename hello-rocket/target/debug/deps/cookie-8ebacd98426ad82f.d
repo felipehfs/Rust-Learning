@@ -1,0 +1,15 @@
+/home/felipe/Projetos/Rust/hello-rocket/target/debug/deps/libcookie-8ebacd98426ad82f.rlib: /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/lib.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/builder.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/parse.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/jar.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/delta.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/draft.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/mod.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/macros.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/private.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/signed.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/key.rs
+
+/home/felipe/Projetos/Rust/hello-rocket/target/debug/deps/cookie-8ebacd98426ad82f.d: /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/lib.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/builder.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/parse.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/jar.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/delta.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/draft.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/mod.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/macros.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/private.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/signed.rs /home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/key.rs
+
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/lib.rs:
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/builder.rs:
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/parse.rs:
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/jar.rs:
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/delta.rs:
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/draft.rs:
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/mod.rs:
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/macros.rs:
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/private.rs:
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/signed.rs:
+/home/felipe/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.9.2/src/secure/key.rs:
